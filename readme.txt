@@ -1,3 +1,6 @@
+Axel Hernandez personal web portfolio.
+
+
 LICENSE:
 
 This free resource is provided by styleshout.com and is free to use in 
@@ -61,8 +64,5 @@ Javascript Files:
  - MailtoUI (https://mailtoui.com/)
 
 -------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
 
 
